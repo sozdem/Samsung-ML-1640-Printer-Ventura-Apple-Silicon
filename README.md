@@ -1,6 +1,8 @@
 # How install Samsung ML-1640 Printer driver for macOS Ventura and Apple Silicon
 
 This example shows how to install the printer driver for ML-1640 on macOS Ventura.
+
+
 Video : https://www.youtube.com/watch?v=jYRqxzAfrIo
 
 - clone the provided files
